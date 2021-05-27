@@ -12,3 +12,5 @@ https://kevinpmyers.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kevin Myers
+
+### ©️2019 Run Buddy, Inc 
