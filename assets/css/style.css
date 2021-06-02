@@ -365,7 +365,7 @@ section {
 @media screen and (max-width: 980px) {
   header h1 a {
     /* this will be applied on any screen smaller than 980px */
-    color: tomato;
+
   }
 }
 
@@ -373,7 +373,7 @@ section {
 @media screen and (max-width: 768px) {
   header h1 {
     /* this will be applied on any screen between 768px and 575px */
-    font-size: 80px
+
   }
 }
 
@@ -381,6 +381,6 @@ section {
 @media screen and (max-width: 575px) {
   header h1 {
     /* this will be applied on any screen smaller than 575px */
-    font-size: 100px;
+
   }
 }
